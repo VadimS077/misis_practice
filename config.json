@@ -1,0 +1,11 @@
+{
+  "octree_resolution": 150,
+  "picture_size": 1024,
+  "num_inference": 50,
+  "prompts": [
+    {
+      "text": "a single package of chocolate candy bar,similar to Twix",
+      "output_basename": "candy_bar_kan"
+    }
+  ]
+}
